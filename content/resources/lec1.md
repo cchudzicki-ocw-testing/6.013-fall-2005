@@ -6,7 +6,12 @@ description: Lecture notes on Coulomb-Lorentz force law, Maxwell's equations in 
   and spherical source problems, and Edgerton's Boomer.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-013-electromagnetics-and-applications-fall-2005/547de84f22bc0a4035f4a285cd385afc_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 1
+type: OCWFile
 uid: 547de84f-22bc-0a40-35f4-a285cd385afc
 ---

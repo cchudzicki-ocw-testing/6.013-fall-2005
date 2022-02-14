@@ -6,7 +6,12 @@ description: Problem set on electromagnetics and applications, displacement curr
   electric field, and electric scalar potential.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-013-electromagnetics-and-applications-fall-2005/88e4331864be7e948556f761ddf33697_ps4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set #4'
+type: OCWFile
 uid: 88e43318-64be-7e94-8556-f761ddf33697
 ---

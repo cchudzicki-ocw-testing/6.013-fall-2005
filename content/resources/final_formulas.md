@@ -5,7 +5,11 @@ description: Formula sheet for the final exam on Cartesian coordinates, cylindri
   and transmission lines.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-013-electromagnetics-and-applications-fall-2005/d121304745bb4ba431ab8458265caf92_final_formulas.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Final Exam Formula Sheets
+type: OCWFile
 uid: d1213047-45bb-4ba4-31ab-8458265caf92
 ---
