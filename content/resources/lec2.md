@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: Electromagnetic Field Boundary Conditions'
-type: OCWFile
 uid: a97a6124-0637-f263-ae84-84deea17ebd0
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 20 - Dipole Arrays
-type: OCWFile
 uid: 0bcdd918-2648-636a-aa17-1ad9b0e68ceb
 ---

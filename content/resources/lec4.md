@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 4: The Scalar Electric Potential and the Coulomb Superposition Integral'
-type: OCWFile
 uid: 6254accb-be56-e6cd-d24d-2916bcdbccd3
 ---

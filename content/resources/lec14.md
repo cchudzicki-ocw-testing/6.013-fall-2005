@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 14 - Waveguides
-type: OCWFile
 uid: 5d6aef1b-bff3-2f59-c4b2-3172f371dc68
 ---

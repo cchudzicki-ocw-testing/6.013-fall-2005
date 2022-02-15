@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Quiz 2 Solutions
-type: OCWFile
 uid: 23112e35-739f-21df-af8c-e60783d06f87
 ---

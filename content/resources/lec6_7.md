@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lectures 6 and 7: Polarization, Conduction, and Magnetization'
-type: OCWFile
 uid: a95e37a8-2694-6736-a065-f36767f86a8f
 ---

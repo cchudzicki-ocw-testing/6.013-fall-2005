@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Formula Sheet 2
-type: OCWFile
 uid: 59e10000-1186-c03a-19ca-3361dcd3b240
 ---

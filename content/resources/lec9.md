@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 9 - Oblique Incidence of Electromagnetic Waves
-type: OCWFile
 uid: 099a51f7-9942-2c07-47c7-e8d691e42401
 ---

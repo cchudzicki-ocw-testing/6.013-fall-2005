@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 23 - Acoustic Resonators
-type: OCWFile
 uid: a1b319fb-d356-6d85-f49f-4f97cec20450
 ---

@@ -10,6 +10,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Final Exam Formula Sheets
-type: OCWFile
 uid: d1213047-45bb-4ba4-31ab-8458265caf92
 ---

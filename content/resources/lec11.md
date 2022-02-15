@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 11 - Generalized Reflection Coefficient
-type: OCWFile
 uid: 27035dfb-2ffa-2460-b38e-f54ac5238d69
 ---

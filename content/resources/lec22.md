@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 22 - Acoustic Waves
-type: OCWFile
 uid: 57c7ed2d-14f3-555c-88bd-45d13a4cb287
 ---

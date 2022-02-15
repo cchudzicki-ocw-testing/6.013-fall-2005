@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 15 - Dielectric Waveguides
-type: OCWFile
 uid: b779e350-88c0-fac1-b358-06ebdba23c76
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 5: The Electric Potential and the Method of Images'
-type: OCWFile
 uid: 7e96c40b-ee77-1e12-b7a3-a2e28b326b31
 ---

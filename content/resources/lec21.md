@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 21 - Receiving Antennas
-type: OCWFile
 uid: b8051505-996e-2668-bf23-bc02021f7a2a
 ---

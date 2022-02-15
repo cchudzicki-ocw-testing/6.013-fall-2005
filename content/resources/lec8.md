@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 8 - Transverse Electromagnetic Waves
-type: OCWFile
 uid: 2f455332-ba15-48a8-db83-ef1d78592088
 ---

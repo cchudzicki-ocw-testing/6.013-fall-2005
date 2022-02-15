@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 19 - Electromagnetic Radiation
-type: OCWFile
 uid: 8b731926-b8ec-6844-7762-df43dd0ed5e4
 ---

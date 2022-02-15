@@ -10,6 +10,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Formula Sheet 1
-type: OCWFile
 uid: 75b51c66-ac69-c46f-d425-b768d1256301
 ---
