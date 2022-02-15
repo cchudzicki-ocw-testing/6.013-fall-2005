@@ -6,6 +6,7 @@ description: "Formula sheet for the first exam on Cartesian coordinates, cylindr
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-013-electromagnetics-and-applications-fall-2005/75b51c66ac69c46fd425b768d1256301_formula_sheet1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
