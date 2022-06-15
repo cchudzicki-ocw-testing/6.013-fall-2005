@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the formula sheets included with the exams as study
+  materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
