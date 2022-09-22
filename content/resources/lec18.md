@@ -8,6 +8,7 @@ file: /courses/6-013-electromagnetics-and-applications-fall-2005/0c5acd983b04063
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
